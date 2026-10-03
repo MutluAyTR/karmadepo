@@ -1,2 +1,2 @@
 # karmadepo
-karışık proje paylaşımı
+Karışık uygulamalar ve projeler için paylaşım deposu.
